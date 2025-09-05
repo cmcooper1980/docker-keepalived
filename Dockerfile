@@ -62,6 +62,7 @@ RUN \
       bash \
       ca-certificates \
       curl \
+      docker-cli \
       grep \
       iproute2 \
       ipset \
